@@ -77,6 +77,11 @@ Moods are preset and not renamed. Each film belongs to exactly one mood.
 | Curation approach | Mostly well-known, widely available films |
 | Switching moods | Mood buttons stay visible at all times |
 
+## Tech stack
+
+- **Chosen Stack:** Vanilla HTML, CSS, and JavaScript (no build step, no dependencies).
+- **Data Source:** Movie data will be stored in a JSON file.
+
 ## Next steps
 
 1. Build the film list: pick 6-10 films per mood.
