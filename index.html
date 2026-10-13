@@ -7,9 +7,25 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Mood Movie Picker</h1>
-    <p>Select your mood to find a movie suggestion.</p>
-    <div id="app"></div>
+    <header>
+        <h1>Mood Movie Picker</h1>
+        <p>Choose your current mood, and let us suggest a movie that fits.</p>
+    </header>
+
+    <nav id="mood-selector">
+        <button data-mood="Cozy">Cozy</button>
+        <button data-mood="Thrilled">Thrilled</button>
+        <button data-mood="Laugh">Laugh</button>
+        <button data-mood="Wistful">Wistful</button>
+        <button data-mood="Inspired">Inspired</button>
+    </nav>
+
+    <main id="movie-display">
+        <div id="movie-card"></div>
+        <button id="show-another" style="display: none;">Show Another</button>
+    </main>
+
+    <script src="logic.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

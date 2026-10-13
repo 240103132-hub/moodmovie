@@ -1,5 +1,45 @@
 body {
-    font-family: sans-serif;
-    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
     padding: 2rem;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 2rem;
+}
+
+h1 {
+    font-weight: 300;
+    margin-bottom: 0.5rem;
+}
+
+#mood-selector {
+    margin-bottom: 3rem;
+}
+
+#mood-selector button {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 0.75rem 1.5rem;
+    margin: 0.5rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.3s, border-color 0.3s;
+}
+
+#mood-selector button:hover {
+    background: #f9f9f9;
+    border-color: #aaa;
+}
+
+#movie-display {
+    min-height: 200px;
+    padding: 2rem;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    background: #fcfcfc;
 }

@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Paddington 2",
+    "year": 2017,
+    "synopsis": "Paddington, now happily settled with the Brown family, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday.",
+    "why": "It's the cinematic equivalent of a warm hug.",
+    "mood": "Cozy"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "synopsis": "Two young girls move to the countryside to be near their ailing mother and discover the forest spirits nearby.",
+    "why": "Pure, gentle magic that soothes the soul.",
+    "mood": "Cozy"
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "year": 1989,
+    "synopsis": "A young witch on her mandatory year of independent life finds fitting into a new community difficult while supporting herself by running an air courier service.",
+    "why": "A lovely, low-stakes adventure about finding your way.",
+    "mood": "Cozy"
+  },
+  {
+    "title": "Amélie",
+    "year": 2001,
+    "synopsis": "Amélie is an innocent and naive girl in Paris, with her own sense of justice. She decides to change the lives of those around her for the better.",
+    "why": "Quirky, charming, and deeply comforting.",
+    "mood": "Cozy"
+  },
+  {
+    "title": "Little Women",
+    "year": 2019,
+    "synopsis": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms.",
+    "why": "A beautiful exploration of home, family, and love.",
+    "mood": "Cozy"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "synopsis": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+    "why": "Visually cozy, delightful, and whimsical.",
+    "mood": "Cozy"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "synopsis": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper, and a drifter named Max.",
+    "why": "Adrenaline-fueled, non-stop action.",
+    "mood": "Thrilled"
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "why": "Mind-bending and intense from start to finish.",
+    "mood": "Thrilled"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "why": "A high-stakes, gripping crime thriller.",
+    "mood": "Thrilled"
+  },
+  {
+    "title": "Speed",
+    "year": 1994,
+    "synopsis": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
+    "why": "The ultimate 90s action thriller.",
+    "mood": "Thrilled"
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "why": "Unpredictable, tense, and incredibly thrilling.",
+    "mood": "Thrilled"
+  },
+  {
+    "title": "Casino Royale",
+    "year": 2006,
+    "synopsis": "After earning 00 status and a licence to kill, Secret Agent James Bond sets out on his first mission as 007. Bond must defeat a private banker to terrorists in a high-stakes game of poker at Casino Royale.",
+    "why": "Sharp, sleek, and high-adrenaline.",
+    "mood": "Thrilled"
+  },
+  {
+    "title": "Superbad",
+    "year": 2007,
+    "synopsis": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+    "why": "Hilarious, relatable, and endlessly quotable.",
+    "mood": "Laugh"
+  },
+  {
+    "title": "Airplane!",
+    "year": 1980,
+    "synopsis": "A man afraid of flying must ensure that a plane lands safely after the pilots get sick.",
+    "why": "Non-stop absurdity and classic slapstick comedy.",
+    "mood": "Laugh"
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "synopsis": "The King of the Britons leads his knights on a lowly quest for the Holy Grail, encountering many absurd obstacles.",
+    "why": "Surreal, brilliant, and deeply funny.",
+    "mood": "Laugh"
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "synopsis": "Ultimate slacker 'The Dude' gets mistaken for a millionaire with the same name and gets embroiled in a complex kidnapping plot.",
+    "why": "The epitome of cool, lazy, hilarious cinema.",
+    "mood": "Laugh"
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "year": 2014,
+    "synopsis": "A documentary crew follows four vampires who are roommates in modern-day Wellington, New Zealand.",
+    "why": "Mockumentary perfection about supernatural roommates.",
+    "mood": "Laugh"
+  },
+  {
+    "title": "Bridesmaids",
+    "year": 2011,
+    "synopsis": "Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.",
+    "why": "Raunchy, heartfelt, and genuinely funny.",
+    "mood": "Laugh"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "synopsis": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "why": "Poetic, melancholy, and deeply moving.",
+    "mood": "Wistful"
+  },
+  {
+    "title": "Lost in Translation",
+    "year": 2003,
+    "synopsis": "A faded movie star and a neglected young woman strike up an unlikely accord after crossing paths in Tokyo.",
+    "why": "Beautifully captures the feeling of being lonely in a crowd.",
+    "mood": "Wistful"
+  },
+  {
+    "title": "Before Sunrise",
+    "year": 1995,
+    "synopsis": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+    "why": "Captures the fleeting, bittersweet nature of connection.",
+    "mood": "Wistful"
+  },
+  {
+    "title": "Her",
+    "year": 2013,
+    "synopsis": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "why": "A tender, sad look at love and technology.",
+    "mood": "Wistful"
+  },
+  {
+    "title": "Past Lives",
+    "year": 2023,
+    "synopsis": "A deeply connected childhood friendship is torn apart after Nora's family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week.",
+    "why": "A gentle, profound meditation on what could have been.",
+    "mood": "Wistful"
+  },
+  {
+    "title": "Moonlight",
+    "year": 2016,
+    "synopsis": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
+    "why": "Intimate, poetic, and hauntingly beautiful.",
+    "mood": "Wistful"
+  },
+  {
+    "title": "The Secret Life of Walter Mitty",
+    "year": 2013,
+    "synopsis": "When his job along with that of his co-worker are threatened, Walter takes action in the real world embarking on a global journey that turns into an adventure more extraordinary than anything he could have ever imagined.",
+    "why": "Inspiring, uplifting, and beautifully shot.",
+    "mood": "Inspired"
+  },
+  {
+    "title": "Hidden Figures",
+    "year": 2016,
+    "synopsis": "The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.",
+    "why": "A triumphant story of breaking barriers and excellence.",
+    "mood": "Inspired"
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "synopsis": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "why": "A powerful story about potential and self-discovery.",
+    "mood": "Inspired"
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "synopsis": "Professor John Keating inspires his students to look at poetry with a different perspective of breathing life into it.",
+    "why": "A classic reminder to 'carpe diem'.",
+    "mood": "Inspired"
+  },
+  {
+    "title": "Chef",
+    "year": 2014,
+    "synopsis": "A chef who loses his restaurant job starts a food truck in an effort to reclaim his creative promise and piece back together his estranged family.",
+    "why": "Passionate, fun, and deeply inspiring.",
+    "mood": "Inspired"
+  },
+  {
+    "title": "Arrival",
+    "year": 2016,
+    "synopsis": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+    "why": "Profound, intelligent, and deeply moving.",
+    "mood": "Inspired"
+  }
+]

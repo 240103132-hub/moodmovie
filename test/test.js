@@ -1,8 +1,8 @@
-const { expect } = require('chai');
-require('jsdom-global')();
+const { describe, it } = require('node:test');
+const assert = require('node:assert');
 
 describe('Mood Movie Picker', () => {
     it('should initialize', () => {
-        expect(true).to.be.true;
+        assert.ok(true);
     });
 });
